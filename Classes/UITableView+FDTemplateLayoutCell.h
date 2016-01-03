@@ -21,9 +21,9 @@
 // SOFTWARE.
 
 #import <UIKit/UIKit.h>
-#import "UITableView+FDKeyedHeightCache.h"
-#import "UITableView+FDIndexPathHeightCache.h"
-#import "UITableView+FDTemplateLayoutCellDebug.h"
+#import <FDUITableViewCell/UITableView+FDKeyedHeightCache.h>
+#import <FDUITableViewCell/UITableView+FDIndexPathHeightCache.h>
+#import <FDUITableViewCell/UITableView+FDTemplateLayoutCellDebug.h>
 
 @interface UITableView (FDTemplateLayoutCell)
 
